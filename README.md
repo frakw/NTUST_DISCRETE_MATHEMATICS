@@ -1,0 +1,2 @@
+# NTUST_DISCRETE_MATHEMATICS
+離散數學-項天瑞
