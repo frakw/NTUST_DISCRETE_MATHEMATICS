@@ -11,7 +11,9 @@
 答:第一球紅 第二球藍:<img src="https://render.githubusercontent.com/render/math?math=\frac{3}{5} * \frac{2}{4}"> ，第一球藍 第二球紅:<img src="https://render.githubusercontent.com/render/math?math=\frac{2}{5} * \frac{3}{4}">
 
 顏色不同的機率 = (第一球紅 第二球藍的機率) + (第一球藍 第二球紅的機率)
+```markdown
 <img src="http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cfrac%7B12%7D%7B20%7D%20%3D%20%5Cfrac%7B6%7D%7B20%7D%20%2B%20%5Cfrac%7B6%7D%7B20%7D%20%3D%20%5Cfrac%7B3%7D%7B5%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{12}{20} = \frac{6}{20} + \frac{6}{20} = \frac{3}{5}" width="133" height="26" />
+```
 
 ## 4.有3個小孩，男女出生機率相同，求在已有2個女生的情況下3個小孩都為女生的機率
 答:<img src="http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cfrac%7B3-girls%7D%7B3-girls%2B2-girls-1-boy%7D%20%3D%20%5Cfrac%7B%5Cfrac%7B1%7D%7B2%7D%7D%7B%5Cfrac%7B1%7D%7B2%7D%2B%5Cfrac%7B1%7D%7B2%7D%7D%20%3D%20%5Cfrac%7B1%7D%7B2%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{3-girls}{3-girls+2-girls-1-boy} = \frac{\frac{1}{2}}{\frac{1}{2}+\frac{1}{2}} = \frac{1}{2}" width="247" height="42" />
