@@ -12,7 +12,7 @@
 
 顏色不同的機率 = (第一球紅 第二球藍的機率) + (第一球藍 第二球紅的機率)
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{12}{20} = \frac{6}{20} + \frac{6}{20} = \frac{3}{5}">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{12}{20} = \frac{6}{20} %2B \frac{6}{20} = \frac{3}{5}">
 ## 4.有3個小孩，男女出生機率相同，求在已有2個女生的情況下3個小孩都為女生的機率
 答:<img src="https://render.githubusercontent.com/render/math?math=\frac{3-girls}{3-girls+2-girls-1-boy} = \frac{\frac{1}{2}}{\frac{1}{2}+\frac{1}{2}} = \frac{1}{2}">
 
