@@ -10,7 +10,8 @@
 
 答:第一球紅 第二球藍:<img src="https://render.githubusercontent.com/render/math?math=\frac{3}{5} * \frac{2}{4}">$ ，第一球藍 第二球紅:<img src="https://render.githubusercontent.com/render/math?math=\frac{2}{5} * \frac{3}{4}">
 顏色不同的機率 = (第一球紅 第二球藍的機率) + (第一球藍 第二球紅的機率)
-<img src="https://render.githubusercontent.com/render/math?math=\frac{3女機率}{3女機率+2女1男機率} = \frac{\frac{1}{2}}{\frac{1}{2}+\frac{1}{2}} = \frac{1}{2}">
+
+<img src="http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cfrac%7B12%7D%7B20%7D%20%3D%20%5Cfrac%7B6%7D%7B20%7D%20%2B%20%5Cfrac%7B6%7D%7B20%7D%20%3D%20%5Cfrac%7B3%7D%7B5%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$$\frac{12}{20} = \frac{6}{20} + \frac{6}{20} = \frac{3}{5}$$" width="133" height="26" />
 ## 4.有3個小孩，男女出生機率相同，求在已有2個女生的情況下3個小孩都為女生的機率
 答:$$\frac{3女機率}{3女機率+2女1男機率} = \frac{\frac{1}{2}}{\frac{1}{2}+\frac{1}{2}} = \frac{1}{2}$$
 ## 5.有八個資料要檢查有沒有病毒，其中5個是有病毒的，只要一檢查到病毒就會發出警告，並停止檢查，請問檢查次數的期望值為何?
