@@ -14,7 +14,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=\frac{12}{20} = \frac{6}{20} %2B \frac{6}{20} = \frac{3}{5}">
 ## 4.有3個小孩，男女出生機率相同，求在已有2個女生的情況下3個小孩都為女生的機率
-答:<img src="https://render.githubusercontent.com/render/math?math=\frac{3%20girls}{3%20girls%2B2%20girls%201%20boy} = \frac{\frac{1}{2}}{\frac{1}{2}%2B\frac{1}{2}} = \frac{1}{2}">
+答:<img src="https://render.githubusercontent.com/render/math?math=\frac{3girls}{3girls%2B2girls-1boy} = \frac{\frac{1}{2}}{\frac{1}{2}%2B\frac{1}{2}} = \frac{1}{2}">
 
 ## 5.有八個資料要檢查有沒有病毒，其中5個是有病毒的，只要一檢查到病毒就會發出警告，並停止檢查，請問檢查次數的期望值為何?
 答:第一次就檢查到的機率\*1+第二次檢查到的機率\*2+第三次檢查到的機率\*3+第四次檢查到的機率\*4 ，只有三個沒病毒所以不可能檢查到五次以上，五次以上的機率為0
