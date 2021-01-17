@@ -8,16 +8,19 @@
 反證:如果每個人的朋友數都大於等於5人，那平均朋友數也必大於5，但由於平均是4.8，所以代表一定有人的朋友數是小於等於4人
 ## 3.一個箱子裡有2個藍球3個紅球，請問抽2個球顏色不同的機率?
 
-答:第一球紅 第二球藍:<img src="https://render.githubusercontent.com/render/math?math=\frac{3}{5} * \frac{2}{4}">$ ，第一球藍 第二球紅:<img src="https://render.githubusercontent.com/render/math?math=\frac{2}{5} * \frac{3}{4}">
+答:第一球紅 第二球藍:<img src="https://render.githubusercontent.com/render/math?math=\frac{3}{5} * \frac{2}{4}"> ，第一球藍 第二球紅:<img src="https://render.githubusercontent.com/render/math?math=\frac{2}{5} * \frac{3}{4}">
 
 顏色不同的機率 = (第一球紅 第二球藍的機率) + (第一球藍 第二球紅的機率)
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cfrac%7B12%7D%7B20%7D%20%3D%20%5Cfrac%7B6%7D%7B20%7D%20%2B%20%5Cfrac%7B6%7D%7B20%7D%20%3D%20%5Cfrac%7B3%7D%7B5%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$$\frac{12}{20} = \frac{6}{20} + \frac{6}{20} = \frac{3}{5}$$" width="133" height="26" />
+
 ## 4.有3個小孩，男女出生機率相同，求在已有2個女生的情況下3個小孩都為女生的機率
-答:$$\frac{3女機率}{3女機率+2女1男機率} = \frac{\frac{1}{2}}{\frac{1}{2}+\frac{1}{2}} = \frac{1}{2}$$
+答:<img src="http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cfrac%7B3-girls%7D%7B3-girls%2B2-girls-1-boy%7D%20%3D%20%5Cfrac%7B%5Cfrac%7B1%7D%7B2%7D%7D%7B%5Cfrac%7B1%7D%7B2%7D%2B%5Cfrac%7B1%7D%7B2%7D%7D%20%3D%20%5Cfrac%7B1%7D%7B2%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$$\frac{3-girls}{3-girls+2-girls-1-boy} = \frac{\frac{1}{2}}{\frac{1}{2}+\frac{1}{2}} = \frac{1}{2}$$" width="247" height="42" />
+
 ## 5.有八個資料要檢查有沒有病毒，其中5個是有病毒的，只要一檢查到病毒就會發出警告，並停止檢查，請問檢查次數的期望值為何?
 答:第一次就檢查到的機率*1+第二次檢查到的機率*2+第三次檢查到的機率*3+第四次檢查到的機率*4 ，只有三個沒病毒所以不可能檢查到五次以上，五次以上的機率為0
-$$\frac{5}{8}*1+(\frac{3}{8}*\frac{5}{7})*2+(\frac{3}{8}*\frac{2}{7}*\frac{5}{6})*3+(\frac{3}{8}*\frac{2}{7}*\frac{1}{6}*\frac{5}{5})*4 = \frac{2}{3}$$
+<img src="http://www.sciweavers.org/tex2img.php?eq=%24%24%5Cfrac%7B5%7D%7B8%7D%2A1%2B%28%5Cfrac%7B3%7D%7B8%7D%2A%5Cfrac%7B5%7D%7B7%7D%29%2A2%2B%28%5Cfrac%7B3%7D%7B8%7D%2A%5Cfrac%7B2%7D%7B7%7D%2A%5Cfrac%7B5%7D%7B6%7D%29%2A3%2B%28%5Cfrac%7B3%7D%7B8%7D%2A%5Cfrac%7B2%7D%7B7%7D%2A%5Cfrac%7B1%7D%7B6%7D%2A%5Cfrac%7B5%7D%7B5%7D%29%2A4%20%3D%20%5Cfrac%7B2%7D%7B3%7D%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$$\frac{5}{8}*1+(\frac{3}{8}*\frac{5}{7})*2+(\frac{3}{8}*\frac{2}{7}*\frac{5}{6})*3+(\frac{3}{8}*\frac{2}{7}*\frac{1}{6}*\frac{5}{5})*4 = \frac{2}{3}$$" width="503" height="26" />
+
 ## 6.這題數字忘了，用ABC代替，醫院有2區(M區與G區)，M區病患頭痛的比率是A，G區病患頭痛的比率是B，已知病患送進醫院後進入M區的比率為C，進入G區的比率為D
 有一個病患有頭痛的症狀，但他忘了他是哪區的，請問他較有可能在哪一區(M or G)?
 答:在M區且頭痛的比率 = A * C ，在G區且頭痛的比率 = B * D
